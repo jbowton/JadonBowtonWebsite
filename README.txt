@@ -1,32 +1,8 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my personal coding portfolio! Here, you can explore a collection of projects I’ve developed, showcasing my skills in programming, web development, and software design.
 
+Projects Featured
+Study Room Reservation: Website for managing room reservations in a University of Washington library. Users can log in, create accounts, search for study rooms, view available rooms, and make reservations.
+MiniJava: MiniJava is a subset of the Java programming language designed for educational purposes, particularly for teaching compiler design.
+Soccer Match Predictions: This project is a Jupyter Notebook that combines web scraping and machine learning to analyze Premier League data and predict future match outcomes. I developed a data pipeline to collect match stats and team performance metrics, then trained a machine learning model to forecast the probable results of upcoming games. This project showcases skills in data extraction, feature engineering, and predictive modeling.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to explore my projects and check out the source code
